@@ -7,17 +7,17 @@ Passionate about Cloud and Cloud security. I am committed to mastering cloud con
 - Implementing security best practices in cloud environments.
 
 ### 🌱 I’m currently learning:
-- Cloud security concepts and techniques
-- Containerization techniques such as Docker
+- Cloud security concepts such as automation, incident response, encryption, monitoring and logging
+- Containerization techniques such as Docker.
+- Container orchestartion using kubernetes.
 
 ### 💬 Ask me about:
--Cloud computing techniques and strategies.
--Cloud security strategies and techniques
--Infrastructure as code techniques such as terraform
+- Cloud computing techniques and best strategies.
+- Cloud security strategies and techniques
+- Infrastructure as code techniques such as terraform
 
 ### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/william-maina/
-- Email: willygichohim@gmail.com
 - X: https://twitter.com/Willydeemaina
 
 ### ⚡ Fun fact:
